@@ -2,7 +2,7 @@
 A Web Application for restaurants which helps you to find the nearby restaurants, read customers reviews and know the working hours. The goal of this project is to learn Responsive design, use Service worker to cache the content and use of accessibility.
 
 ## Run the Application
-* In order to run the application you have some options:
+In order to run the application you have some options:
 1) Open it using given link - https://ibrahimkundlik.github.io/RestaurantReviewsApp/
 
 2) Run it on your local computer -
