@@ -4,6 +4,7 @@ A Web Application for restaurants which helps you to find the nearby restaurants
 ## Run the Application
 * In order to run the application you have some options:
 1) Open it using given link - https://ibrahimkundlik.github.io/RestaurantReviewsApp/
+
 2) Run it on your local computer -
 * Download as .zip file or clone this project:
 `https://github.com/ibrahimkundlik/RestaurantReviewsApp.git`
